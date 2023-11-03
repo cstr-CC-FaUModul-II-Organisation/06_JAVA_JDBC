@@ -7,7 +7,7 @@ public class App {
 
     public static void main(String[] args) {
 
-       String conURL = "jdbc:mysql://3.79.148.212:55548/mydb";
+       String conURL = "jdbc:mysql://3.79.148.212:58848/mydb";
        String usrStr = "peter";
        String usrPwd = "abcd1234#";
 
@@ -19,6 +19,7 @@ public class App {
                 System.out.println("Success!");
                 con.close();
             }
+
         } catch (Exception e) {
             System.out.println();
             e.printStackTrace();
