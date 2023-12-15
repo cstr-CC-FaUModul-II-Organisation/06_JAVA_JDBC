@@ -5,7 +5,7 @@ import java.sql.*;
 public class App {
 
         // Argumente für Connection-Parameter
-        static String conURL = "jdbc:mysql://3.79.148.212:58020/mydb";
+        static String conURL = "jdbc:mysql://18.195.65.144:53373/mydb";
         static String usrStr = "peter";
         static String usrPwd = "abcd1234#";
         
