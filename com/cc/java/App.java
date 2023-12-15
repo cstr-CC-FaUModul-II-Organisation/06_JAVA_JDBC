@@ -16,6 +16,9 @@ public class App {
 
     public static void main(String[] args) {
 
+
+        /*
+        
         try {
            
             // Load SQL Server JDBC driver and establish connection.
@@ -63,7 +66,11 @@ public class App {
             e.printStackTrace();
         }
 
-    }
-}
+        */
+
+    } /* End of main-method */
+        
+        
+} /* End of Class */
 
 
