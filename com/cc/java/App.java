@@ -1,9 +1,11 @@
 package com.cc.java;
 
-import java.sql.*;
+// import java.sql.*;
 
 public class App {
 
+        /*
+        
         // Argumente für Connection-Parameter
         static String conURL = "jdbc:mysql://18.195.65.144:53373/mydb";
         static String usrStr = "peter";
@@ -12,7 +14,8 @@ public class App {
         static Connection con;
         static Statement stmt;
         static ResultSet rs;
-
+        
+        */
 
     public static void main(String[] args) {
 
