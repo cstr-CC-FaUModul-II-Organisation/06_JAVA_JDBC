@@ -1,13 +1,13 @@
 package com.cc.java;
 
-// import java.sql.*;
+ import java.sql.*;
 
 public class App {
 
-        /*
+        
         
         // Argumente für Connection-Parameter
-        static String conURL = "jdbc:mysql://18.195.65.144:53373/mydb";
+        static String conURL = "jdbc:mysql://3.127.27.95:57225/mydb";
         static String usrStr = "peter";
         static String usrPwd = "abcd1234#";
         
@@ -15,12 +15,12 @@ public class App {
         static Statement stmt;
         static ResultSet rs;
         
-        */
+        
 
     public static void main(String[] args) {
 
-
-        /*
+        
+        
         
         try {
            
@@ -69,7 +69,7 @@ public class App {
             e.printStackTrace();
         }
 
-        */
+        
 
     } /* End of main-method */
         
